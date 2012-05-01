@@ -46,7 +46,6 @@ public final class MD5 extends UDF {
             hexString.append(Integer.toHexString(0xFF & input[i]));
         }
 
-        hexString.append("");
         return new Text(hexString.toString());
     }
 }

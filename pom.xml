@@ -13,17 +13,6 @@
             <artifactId>hadoop-core</artifactId>
             <version>0.20.2-cdh3u2</version>
         </dependency>
-        <dependency>
-            <groupId>org.apache.mahout</groupId>
-            <artifactId>mahout-math</artifactId>
-            <version>0.5-cdh3u2</version>
-        </dependency>
-
-        <dependency>
-            <groupId>org.apache.mahout</groupId>
-            <artifactId>mahout-core</artifactId>
-            <version>0.5-cdh3u2</version>
-        </dependency>
 
         <dependency>
             <groupId>org.apache.hadoop.hive</groupId>
